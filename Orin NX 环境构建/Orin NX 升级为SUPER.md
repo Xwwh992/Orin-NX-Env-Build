@@ -10,7 +10,7 @@ https://www.notion.so/SDK-manager-Jetpack-873047bff21d46aaa6885549d07cb76d?pvs=4
 
 https://developer.nvidia.com/embedded/jetson-linux-r3643
 
-![image-20250913195329005](/home/wyc/.config/Typora/typora-user-images/image-20250913195329005.png)
+![image-20250913195329005](./images/image-20250913195329005.png)
 
 然后在下载下来的位置打开终端，依次输入如下命令
 
